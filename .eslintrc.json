@@ -4,7 +4,6 @@
         "node": 1
     },
     "rules": {
-        "linebreak-style": 0,
-        "javascript.suggestionActions.enabled": false
+        "linebreak-style": 0
     }
 }
