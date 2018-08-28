@@ -1,0 +1,10 @@
+{
+    "extends": "airbnb-base",
+    "env": {
+        "node": 1
+    },
+    "rules": {
+        "linebreak-style": 0,
+        "javascript.suggestionActions.enabled": false
+    }
+}

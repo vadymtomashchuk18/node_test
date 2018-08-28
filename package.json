@@ -1,0 +1,33 @@
+{
+  "name": "node_test",
+  "version": "1.0.0",
+  "description": "REST API for the following model",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vadymtomashchuk18/node_test.git"
+  },
+  "author": "Vadym Tomashchuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vadymtomashchuk18/node_test/issues"
+  },
+  "homepage": "https://github.com/vadymtomashchuk18/node_test#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "chalk": "^2.4.1",
+    "express": "^4.16.3",
+    "mongodb": "^3.1.4",
+    "mongodb-autoincrement": "^1.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^5.4.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "nodemon": "^1.18.3"
+  }
+}
